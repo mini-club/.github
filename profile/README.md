@@ -1,12 +1,15 @@
 ## Hi there 👋
 
-<!--
+Welcome to Mini Club!
 
-**Here are some ideas to get you started:**
+## Introduction
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Mini Club is an organization focused on collecting and sharing mini implementations of well-known frameworks. Our goal is to help developers better understand and learn the core concepts and implementations of these frameworks through simplified versions.
+
+## Goals
+
+- Provide easy-to-understand code examples
+- Help developers quickly grasp the basic principles of frameworks
+- Foster learning and knowledge sharing
+
+Thank you for your interest in Mini Club!
